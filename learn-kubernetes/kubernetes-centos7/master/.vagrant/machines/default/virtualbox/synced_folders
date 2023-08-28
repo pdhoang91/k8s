@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"H:/Study/learn-kubernetes/kubernetes-centos7/master","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
